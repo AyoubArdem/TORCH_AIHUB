@@ -27,6 +27,7 @@ pip install -r requirements.txt
 - Python 3.9+
 - PyTorch (latest stable release)
 - TorchVision
+- TorchText
 - Additional dependencies listed in `requirements.txt`
 
 ---
