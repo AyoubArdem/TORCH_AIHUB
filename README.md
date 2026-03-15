@@ -18,7 +18,6 @@ It serves as a hub for experiments and production-ready implementations, designe
 Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/AyoubArdem/TORCH_AIHUB.git
-pip install -r requirements.txt
 ```
 
 ---
@@ -28,7 +27,8 @@ pip install -r requirements.txt
 - PyTorch (latest stable release)
 - TorchVision
 - TorchText
-- Additional dependencies listed in `requirements.txt`
+- AI ACCELERATOR
+- TorchInfo
 
 ---
 
