@@ -1,6 +1,6 @@
 # TORCH_AIHUB  🔥
 
-TorchAIHub is a collection of deep learning projects built with [PyTorch](https://pytorch.org/), dedicated to computer vision.  
+TorchAIHub is a collection of deep learning projects built with [PyTorch](https://pytorch.org/), dedicated to computer vision and NLP.  
 It serves as a hub for experiments and production-ready implementations, designed to be clear, maintainable, and scalable.
 
 ---
