@@ -4,7 +4,8 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-ee4c2c.svg)](https://pytorch.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-contrib-5c3ee8.svg)](https://opencv.org/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](./LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/embed-invariantprintdescriptor.svg)](https://pypi.org/project/embed-invariantprintdescriptor/)
+[![PyPI Version](https://img.shields.io/pypi/v/embed-invariantprintdescriptor?logo=pypi&logoColor=white)](https://pypi.org/project/embed-invariantprintdescriptor/)
+
 
 
 `EmbedInvariantPrintDescriptor` is a Python image embedding library that users can install and use with an SDK-style API, similar to an embeddings client.
